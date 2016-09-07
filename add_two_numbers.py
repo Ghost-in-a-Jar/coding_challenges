@@ -1,6 +1,3 @@
-"""This beat 100% of python submissions."""
-
-
 # Definition for singly-linked list.
 class ListNode(object):
     def __init__(self, x):

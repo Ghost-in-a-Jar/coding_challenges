@@ -1,5 +1,3 @@
-"""This beat 99.32% of python submissions"""
-
 class Solution(object):
     def twoSum(self, nums, target):
         nums_len=len(nums)
